@@ -1,4 +1,4 @@
-# Repositório: Matemática para Computação (MPC)
+# Matemática para Computação (MPC)
 
 Este repositório armazena os projetos, exercícios e avaliações desenvolvidos durante a disciplina de Matemática para Computação, do 2º semestre do curso de **Desenvolvimento de Software Multiplataforma (DSM)**.
 
